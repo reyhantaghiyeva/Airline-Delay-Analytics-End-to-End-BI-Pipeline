@@ -57,7 +57,7 @@ Performed analytical queries such as:
 Created interactive dashboard including:
 - KPI cards (total flights, delay rate)
 - Airline performance comparison
-- Monthly trend analysis
+- Yearly trend analysis
 - Airport-level insights
 
 ---
